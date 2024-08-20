@@ -1,4 +1,4 @@
-Hi there, I'm Nicolas Reis 👋
+## Hi there, I'm Nicolas Reis 👋
 
 ## • 📜 Historic:
 🇧🇷 São Paulo - Brazil | 🎓 Graduating in the first year in Software Engineering at FIAP 
